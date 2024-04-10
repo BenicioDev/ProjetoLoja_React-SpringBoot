@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.dev.backend.entity.Estado;
 import com.dev.backend.service.EstadoService;
 
-import jakarta.websocket.server.PathParam;
 
 @RestController
 @RequestMapping("/api/estado")
